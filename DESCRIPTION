@@ -1,0 +1,15 @@
+Package: webformscore
+Type: Package
+Title: 'WebForms Core'
+Version: 2.2.0
+Authors@R: person(given = "Mohammad", family = "Rabie", role = c("aut", "cre"), email = "info@elanat.net")
+Description: A stateless server-driven user interface technology for building web interfaces through server-side user interface manipulation. 'WebForms Core' provides a common structure across multiple programming languages. The server-side class acts as a commander that generates commands, while 'WebFormsJS' serves as the client-side executor that applies them. Commands range from atomic operations, such as adding elements and modifying text and attributes, to higher-level operations such as iterative processing and render. See <https://github.com/webforms-core>.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports: R6
+NeedsCompilation: no
+Packaged: 2026-10-09 14:55:34 UTC; Mohammad
+Author: Mohammad Rabie [aut, cre]
+Maintainer: Mohammad Rabie <info@elanat.net>
+Repository: CRAN
+Date/Publication: 2026-10-21 13:20:02 UTC
